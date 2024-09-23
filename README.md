@@ -5,8 +5,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white)](https://portofolio-krishnasagar.netlify.app/#home)
 
 ## 💻 About Me:
-I am a **Full Stack Developer**, **Dynamic UI Developer**, and **Open Source Tech Enthusiast** from India 🇮🇳
- .
+I am a **Dynamic UI Developer**, **Full Stack Developer**, and **Open Source Tech Enthusiast** from India.
 
 - 🌱 I’m currently working on building scalable web applications.
 - 🚀 Focused on **JavaScript**, **Angular**, **React**, and **Node.js**.
@@ -20,8 +19,8 @@ I am a **Full Stack Developer**, **Dynamic UI Developer**, and **Open Source Tec
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
