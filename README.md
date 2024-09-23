@@ -1,31 +1,35 @@
-Hi 👋 I'm Krishna Sagar Bisht.
+# Hi 👋, I'm Krishna Sagar Bisht
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/krishna-sagar-singh-bisht-7551a4171)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kssbisht1997)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange)](https://portofolio-krishnasagar.netlify.app/#home)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sagar-singh-bisht-7551a4171)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kssbisht1997)
+[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://portofolio-krishnasagar.netlify.app/#home)
 
-💻 **About Me**:
-I am a Full Stack Developer, Consultant, and open source tech enthusiast from India.
+## 💻 About Me:
+I am a **Full Stack Developer**, **Consultant**, and **Open Source Tech Enthusiast** from India.
 
-I’m working on building scalable web applications and learning new technologies.
-I love sharing knowledge through meetups, blogging, and social media.
-Currently focused on JavaScript, Angular, React, and Node.js.
+- 🌱 I’m currently working on building scalable web applications.
+- 🚀 Focused on **JavaScript**, **Angular**, **React**, and **Node.js**.
+- 📝 I love to share knowledge through **meetups**, **blogging**, and **social media**.
 
-🔥 **My Stats**:
+## 🔥 My Stats:
 
-🛠️ **Languages and Tools**:
+[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaSagarBisht&show_icons=true&theme=radical)](https://github.com/KrishnaSagarBisht)
 
+## 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+---
 
-Feel free to reach out if you want to collaborate on any exciting projects!
+Feel free to reach out if you want to collaborate on any exciting projects! 😊
