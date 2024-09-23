@@ -14,15 +14,15 @@ Currently focused on JavaScript, Angular, React, and Node.js.
 🔥 **My Stats**:
 
 🛠️ **Languages and Tools**:
-- JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- React  ![React](https://img.shields.io/badge/-React-blue)
-- Angular  ![Angular](https://img.shields.io/badge/-Angular-red)
-- Redux  ![Redux](https://img.shields.io/badge/-Redux-purple)
-- HTML  ![HTML](https://img.shields.io/badge/-HTML-orange)
-- CSS  ![CSS](https://img.shields.io/badge/-CSS-blue)
-- Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- AWS  ![AWS](https://img.shields.io/badge/-AWS-orange)
-- Docker  ![Docker](https://img.shields.io/badge/-Docker-blue)
-- Git  ![Git](https://img.shields.io/badge/-Git-red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
+![React](https://img.shields.io/badge/-React-blue) 
+![Angular](https://img.shields.io/badge/-Angular-red) 
+![Redux](https://img.shields.io/badge/-Redux-purple) 
+![HTML](https://img.shields.io/badge/-HTML-orange) 
+![CSS](https://img.shields.io/badge/-CSS-blue) 
+![Node.js](https://img.shields.io/badge/-Node.js-green) 
+![AWS](https://img.shields.io/badge/-AWS-orange) 
+![Docker](https://img.shields.io/badge/-Docker-blue) 
+![Git](https://img.shields.io/badge/-Git-red)
 
 Feel free to reach out if you want to collaborate on any exciting projects!
