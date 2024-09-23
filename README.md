@@ -5,17 +5,16 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white)](https://portofolio-krishnasagar.netlify.app/#home)
 
 ## 💻 About Me:
-I am a **Full Stack Developer**, **Consultant**, and **Open Source Tech Enthusiast** from India.
+I am a **Full Stack Developer**, **Dynamic UI Developer**, and **Open Source Tech Enthusiast** from India 🇮🇳
+ .
 
 - 🌱 I’m currently working on building scalable web applications.
 - 🚀 Focused on **JavaScript**, **Angular**, **React**, and **Node.js**.
-- 📝 I love to share knowledge through **meetups**, **blogging**, and **social media**.
+- 📝 I love to share knowledge through **blogging**, and **social media**.
 
 ## 🔥 My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSagar1997&layout=compact&theme=radical)](https://github.com/KSagar1997)
-
-[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSagar1997&show_icons=true&theme=radical)](https://github.com/KSagar1997)
 
 ## 🛠️ Languages and Tools:
 
