@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sagar-singh-bisht-7551a4171)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kssbisht1997)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://portofolio-krishnasagar.netlify.app/#home)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=web&logoColor=white)](https://portofolio-krishnasagar.netlify.app/#home)
 
 ## 💻 About Me:
 I am a **Full Stack Developer**, **Consultant**, and **Open Source Tech Enthusiast** from India.
@@ -13,7 +13,9 @@ I am a **Full Stack Developer**, **Consultant**, and **Open Source Tech Enthusia
 
 ## 🔥 My Stats:
 
-[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaSagarBisht&show_icons=true&theme=radical)](https://github.com/KrishnaSagarBisht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSagar1997&layout=compact&theme=radical)](https://github.com/KSagar1997)
+
+[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KSagar1997&show_icons=true&theme=radical)](https://github.com/KSagar1997)
 
 ## 🛠️ Languages and Tools:
 
