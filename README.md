@@ -1,8 +1,8 @@
 Hi 👋 I'm Krishna Sagar Bisht.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/your-twitter-handle)
-[![Blog Badge](https://img.shields.io/badge/-Blog-orange)](https://your-blog-url)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/krishna-sagar-singh-bisht-7551a4171)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kssbisht1997)
+[![Blog Badge](https://img.shields.io/badge/-Blog-orange)](https://portofolio-krishnasagar.netlify.app/#home)
 
 💻 **About Me**:
 I am a Full Stack Developer, Consultant, and open source tech enthusiast from India.
@@ -12,8 +12,6 @@ I love sharing knowledge through meetups, blogging, and social media.
 Currently focused on JavaScript, Angular, React, and Node.js.
 
 🔥 **My Stats**:
-[![Krishna's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/your-github-username/github-readme-stats)
-[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)](https://github.com/your-github-username/github-readme-stats)
 
 🛠️ **Languages and Tools**:
 - JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
